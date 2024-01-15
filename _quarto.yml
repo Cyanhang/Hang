@@ -5,29 +5,29 @@ project:
     port: 3333
 
 website:
-  title: "MUSA 550 Quarto Template"
-  site-url: "https://musa-550-fall-2023.github.io/quarto-website-template" 
-  repo-url: https://github.com/MUSA-550-Fall-2023/quarto-website-template 
+  title: "Hang Zhao Personal Website"
+  site-url: "https://cyanhang.github.io/Hang/" 
+  repo-url: https://github.com/Cyanhang/Hang 
   repo-actions: [source]
 
   page-footer:
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; CC-Nick Hand, 2023"
+    left: "&copy; CC-Hang Zhao, 2023"
 
   sidebar:
-    logo: "images/course-icon.png"
+    logo: "images/Penn_Logo.png"
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nickhand.dev
-        text: "Personal Website"
+        href: hangzh@sas.upenn.edu
+        text: "Email"
       - icon: github
-        href: https://github.com/MUSA-550-Fall-2023/
-        text: "MUSA 550 GitHub"
-      - icon: twitter
-        href: https://twitter.com/nicholashand
-        text: "Nick Hand Twitter"         
+        href: https://github.com/Cyanhang
+        text: "Hang's GitHub"
+      - icon: linkedin
+        href: www.linkedin.com/in/hang-zhao-62060a1a9
+        text: "Hang's Linkedin"         
 
     style: "docked"
     search: true

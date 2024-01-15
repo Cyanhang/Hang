@@ -1,0 +1,57 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 3333
+
+website:
+  title: "Hang Zhao Personal Website"
+  site-url: "https://cyanhang.github.io/Hang/" 
+  repo-url: https://github.com/Cyanhang/Hang 
+  repo-actions: [source]
+
+  page-footer:
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+    left: "&copy; CC-Hang Zhao, 2023"
+
+  sidebar:
+    logo: "images/Penn_Logo.png"
+    pinned: true
+    align: center
+    tools: 
+      - icon: globe
+        href: hangzh@sas.upenn.edu
+        text: "Email"
+      - icon: github
+        href: https://github.com/Cyanhang
+        text: "Hang's GitHub"
+      - icon: linkedin
+        href: www.linkedin.com/in/hang-zhao-62060a1a9
+        text: "Hang's Linkedin"         
+
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - about.qmd
+      - section: analysis/index.qmd
+        contents:
+          - analysis/1-python-code-blocks.qmd 
+          - analysis/2-static-images.ipynb
+          - analysis/3-altair-hvplot.ipynb
+          - analysis/4-folium.ipynb
+
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+
+
+
+
