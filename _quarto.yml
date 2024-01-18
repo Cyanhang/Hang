@@ -48,6 +48,8 @@ website:
           - MUSA500_Stats/MUSA500_HW1_PredictHouseValues.Rmd
           - MUSA500_Stats/MUSA500_HW2.Rmd
           - MUSA500_Stats/MUSA500_HW3.Rmd
+      - ENVS_PuertoRico/index.qmd
+     
 
 format:
   html:
