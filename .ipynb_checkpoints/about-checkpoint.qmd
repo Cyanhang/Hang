@@ -13,7 +13,7 @@ title: "About me"
 <!-- Text gets a column with width 6/12 -->
 ::: {.g-col-6}
 
-My name is Hang Zhao, I am a second year Master of Environmental Studies candidate, also pursuing a Certificate in GIS and Spatial Analysis. This website demonstrates all of my projects done during my Master's study at Penn. 
+My name is Hang Zhao, I am a second year Master of Environmental Studies candidate, also pursuing a Certificate in GIS and Spatial Analysis. This website demonstrates my projects and coursework done during my Master's study at Penn. 
 
 ::: 
 
