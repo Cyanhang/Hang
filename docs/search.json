@@ -79,9 +79,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "MUSA 550 Final Project Template",
+    "title": "Hang Zhao",
     "section": "",
-    "text": "We can create beautiful websites that describe complex technical analyses in Python using Quarto and deploy them online using GitHub Pages. This combination of tools is a really powerful way to create and share your work. This website is a demo that is meant to be used to create your own Quarto website for the final project in MUSA 550.\nQuarto is a relatively new tool, but is becoming popular quickly. It’s a successor to the Rmarkdown ecosystem that combines functionality into a single tool and also extends its computation power to other languages. Most importantly for us, Quarto supports executing Python code, allowing us to convert Jupyter notebooks to HTML and share them online.\n\n\n\n\n\n\nImportant\n\n\n\nThis template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project."
+    "text": "Welcome to my portfolio website! I’m Hang Zhao, currently in my second year as a Master of Environmental Studies candidate, also pursuing a Certificate in GIS and Spatial Analysis. This website is a showcase of the selected projects and coursework I have undertaken during my academic journey at the University of Pennsylvania. Explore the details of my work and experience that reflect my endeavors to understanding and solving environmental challenges through spatial analysis and GIS technologies!"
   },
   {
     "objectID": "index.html#welcome",
@@ -628,5 +628,19 @@
     "title": "MUSA550 - Assignment 4: Street Networks & Web Scraping",
     "section": "",
     "text": "Part 1: Visualizing crash data in Philadelphia\nIn this section, you will use osmnx to analyze the crash incidence in Center City.\nPart 2: Scraping Craigslist\nIn this section, you will use Selenium and BeautifulSoup to scrape data for hundreds of apartments from Philadelphia’s Craigslist portal."
+  },
+  {
+    "objectID": "ENVS_PuertoRico/index.html",
+    "href": "ENVS_PuertoRico/index.html",
+    "title": "ENVS5716_Modeling Geographical Space",
+    "section": "",
+    "text": "Here is my PDF document for the final project:"
+  },
+  {
+    "objectID": "index.html#contents",
+    "href": "index.html#contents",
+    "title": "Hang Zhao",
+    "section": "Contents",
+    "text": "Contents\n\nProjects\nCoursework"
   }
 ]

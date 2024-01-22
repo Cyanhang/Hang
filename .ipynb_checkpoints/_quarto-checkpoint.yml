@@ -19,9 +19,6 @@ website:
     pinned: true
     align: center
     tools: 
-      - icon: globe
-        href: hangzh@sas.upenn.edu
-        text: "Email"
       - icon: github
         href: https://github.com/Cyanhang
         text: "Hang's GitHub"
@@ -34,8 +31,7 @@ website:
     collapse-level: 2
     contents:
       - href: index.qmd
-        text: Welcome
-      - about.qmd
+        text: Home Page
       - section: MUSA550_Python
         contents:
           - MUSA550_Python/MUSA550_Assignment2_HangZhao.ipynb
@@ -48,7 +44,7 @@ website:
           - MUSA500_Stats/MUSA500_HW1_PredictHouseValues.Rmd
           - MUSA500_Stats/MUSA500_HW2.Rmd
           - MUSA500_Stats/MUSA500_HW3.Rmd
-      - ENVS_PuertoRico/index.qmd
+      - ENVS5716_MGS/index.qmd
      
 
 format:
